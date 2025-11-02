@@ -34,7 +34,7 @@ What emerged was not just a language, but a symbolic operating system.
 
 The **Symbol OS** is an **artifact from that other branch of possibility**, reimagined in our present time.
 
-Its filesystem resembles a recursive fractal.
+Its filesystem resembles a hierarchical database.
 Its editor reveals documents as living symbolic pages.
 Its shell speaks not in commands, but in computing frames.
 
