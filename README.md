@@ -64,6 +64,6 @@ was given to graphics.
 **v03:** It grows into a full-stack framework (symbolfull).  
 **v05:** Finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
 
-## Sneakpeek
+## Sneak peek
 
 ![](sshot.png)
