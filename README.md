@@ -53,6 +53,8 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 **v03:** It grows into a full-stack framework (symp).  
 **v05:** Finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
 
+---
+
 ## Sneak peek
 
 [OS screen shot](https://symbol-os.github.io/sshot.png)  
