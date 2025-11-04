@@ -49,7 +49,7 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 ## The Vision
 
-**v01:** Symbol begins as a minimalist symbolic kernel (symbolback).  
+**v01:** Symbol OS begins as a minimalist symbolic kernel (symbolback).  
 **v03:** It grows into a full-stack framework (symp).  
 **v05:** Finally, it awakens as Symbol OS - a chat-like monochrome operating system of the symbolic world.
 
