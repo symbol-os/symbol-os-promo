@@ -2,6 +2,8 @@
 
 **a fantasy OS from a world where meaning mattered more than pixels**
 
+---
+
 ## An OS from a Parallel World
 
 In our world, computing evolved under the pressure of graphics, games, and consumer appeal. Color displays, GPUs, and visual polish became the primary direction of progress.
