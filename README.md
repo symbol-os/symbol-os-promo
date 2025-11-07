@@ -1,6 +1,6 @@
-# The Symbol Operating System
+# The Symbol OS
 
-**a fantasy OS from a world where meaning mattered more than pixels**
+**a fantasy operating system from a world where meaning mattered more than pixels**
 
 ---
 
