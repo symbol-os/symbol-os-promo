@@ -51,7 +51,7 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 **v01:** Symbol begins as a minimalist symbolic kernel (Symp).  
 **v03:** It grows into a static full-stack framework (Symp + fore + back).  
-**v05:** Finally, it awakens as a dynamic Symbol OS - a chat-like monochrome operating system of the symbolic world.
+**v05:** Finally, it awakens as a dynamic Symbol OS — a chat-like monochrome operating system of the symbolic world.
 
 ---
 
