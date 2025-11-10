@@ -40,10 +40,10 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 1. Symbol begins as a minimalist **middleware symbolic kernel**  
    (kernel = match + verse + prose).  
-2. It grows into a **static full-stack programming framework**  
-   (Symp = kernel + fore + back).  
-3. Finally, it awakens as a monochrome dynamic **Symbol OS**  
-   (Symbol OS = Symp + chat-like interface of the symbolic world).
+2. It grows into a **backend programming framework**  
+   (Symp = kernel + back).  
+3. Finally, it awakens as a monochrome **Symbol OS**  
+   (Symbol OS = Symp + fore).
 
 ---
 
