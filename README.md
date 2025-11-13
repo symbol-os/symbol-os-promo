@@ -36,7 +36,7 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
 
 ---
 
-## The Vision
+## The Vision Ahead
 
 1. Symbol begins as a minimalist **middleware symbolic kernel**  
    (kernel = match + verse + prose).  
