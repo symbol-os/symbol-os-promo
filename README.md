@@ -44,10 +44,3 @@ Exploring Symbol OS is stepping into this alternate history. It is austere and p
    (Symp = back + fore).  
 3. Finally, it awakens as a monochrome text mode **Symbol OS**  
    (chat-like user interface of the symbolic world).
-
----
-
-## Sneak peek
-
-[OS screen shot](https://symbol-os.github.io/sshot.png)  
-[symp promo material](https://tearflake.github.io/symp-promo/)  
