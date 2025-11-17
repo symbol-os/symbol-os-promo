@@ -23,7 +23,7 @@ It is not a retro-OS, nor a modern one. It is a visitor from another lineage, wh
 The Symbol OS is more than a tool. It is a *thought experiment*:
 
 - What if symbolic programming had triumphed over pixels?
-- What if every program had its form, meaning, and interpretation?
+- What if every program had its form, meaning, and execution?
 - What if computing was designed to be understood, not just used?
 
 Exploring Symbol OS is stepping into this alternate history. It is austere and playful at the same time — a monochrome mirror where theory carries the weight that, in our world, was given to graphics.
