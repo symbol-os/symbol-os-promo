@@ -4,7 +4,7 @@
 
 ## Philosophy
 
-In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis** of simplicity and minimalism arose.
+In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arose.
 
 There is no graphical user interface, only text mode. There are no millions of colors, only monochrome tint. Instead, the **balance of structure** emerges behind.
 
