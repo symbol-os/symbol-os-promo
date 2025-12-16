@@ -1,4 +1,4 @@
-# The Symbol OS
+# The Symbol-OS
 
 **a thinking environment for expressing clear thoughts**
 
