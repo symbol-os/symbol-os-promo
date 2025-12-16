@@ -2,7 +2,7 @@
 
 **a thinking environment for expressing clear thoughts**
 
-## What is Symbol-OS?
+## About
 
 A small, humane, calm, **symbolic computing environment** where people can think more clearly and program things that matter to them.
 
