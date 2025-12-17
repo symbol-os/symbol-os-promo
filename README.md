@@ -22,7 +22,7 @@ From this seed, and without unnecessary features, we bring the Symbol-OS into ex
 
 ## The Vision Ahead
 
-1. The project begins as a minimalist pure **core** backend programming framework  
-2. Stateful **devices** addon makes it become a full stack programming framework  
+1. The project begins as a minimalist pure **core** backend framework  
+2. Stateful **devices** addon makes it become a full stack framework  
 3. Finally, it awakens as a monochrome text mode **Symbol-OS**  
    (chat-like command line interface of the symbolic world).
