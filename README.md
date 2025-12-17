@@ -12,7 +12,7 @@ A place where someone can sit, write a bit of symbolic code, **express ideas cle
 
 ## Philosophy
 
-In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arise.
+In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arises.
 
 No graphical user interface, only text mode. No millions of colors, only a monochrome tint. Following this setup, the **balanced structure** emerges behind.
 
