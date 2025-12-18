@@ -1,3 +1,7 @@
+```
+// WORK IN PROGRESS //
+```
+
 # The Symbol-OS
 
 a thinking environment for expressing clear thoughts  
@@ -26,3 +30,7 @@ From this seed, and without unnecessary features, we bring the Symbol-OS into ex
 2. Stateful **devices** addon makes it become a full stack framework  
 3. Finally, it awakens as a monochrome text mode **Symbol-OS**  
    (chat-like command line interface of the symbolic world).
+
+```
+// WORK IN PROGRESS //
+```
