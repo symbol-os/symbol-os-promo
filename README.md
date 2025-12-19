@@ -6,6 +6,8 @@
 
 a thinking environment for expressing clear thoughts
 
+---
+
 ## About
 
 A small, humane, calm, **symbolic computing environment** where people can think more clearly and program things that matter to them.
@@ -13,6 +15,8 @@ A small, humane, calm, **symbolic computing environment** where people can think
 Not a product nor a platform. More like a thought interface. A **modern-day Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
 
 A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
+
+---
 
 ## Philosophy
 
@@ -23,6 +27,8 @@ No graphical user interface, only text mode. No millions of colors, only a monoc
 We intentionally trade the visual decoration for **clarity of meaning**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
 From this seed, and without unnecessary features, we bring the Symbol-OS into existence.
+
+---
 
 ## The Vision Ahead
 
