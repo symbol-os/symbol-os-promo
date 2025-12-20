@@ -10,7 +10,7 @@ formally assisted thinking environment
 
 ## About
 
-A small, humane, calm, **symbolic computing environment** where one can think more clearly and program things that matter to them.
+A small, humane, calm, **symbolic computing environment** where someone can think more clearly and program things that matter to them.
 
 Not a product nor a platform. More like a thought interface. A **modern-day Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
 
