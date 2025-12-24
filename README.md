@@ -12,11 +12,9 @@ formally assisted thinking environment
 
 A small, humane, calm, **symbolic computing environment** where someone can think more clearly and program things that matter to them.
 
-Not a product nor a platform. More like a thought interface. A **modern-day Forth, Lisp, or Metamath**, wrapped within a modest OS shell.
+Not a product nor a platform. More like a **thought interface**. A honest resort for avoiding biased opinions and imaginary claims in a favor of argumentative chain of facts expressed in a formal way.
 
 A place where someone can sit, write a bit of symbolic code, **express ideas cleanly**, and feel their mind come back into focus.
-
-A honest resort for avoiding biased opinions and imaginary claims in a favor of argumentative chain of facts expressed in a formal way.
 
 ---
 
