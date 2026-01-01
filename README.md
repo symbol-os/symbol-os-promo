@@ -4,7 +4,7 @@
 
 # Symbol-mind
 
-formally assisted thinking environment  
+formally assisted thinking environment
 
 ---
 
@@ -36,7 +36,7 @@ From this seed, and without unnecessary features, we bring the Symbol-OS into ex
 
 1. The project begins as a minimalist pure **core** backend framework  
 2. Stateful **devices** addon makes it become a full stack framework  
-3. Finally, it awakens as a monochrome text mode **Symbol-OS**  
+3. Finally, it awakens as a monochrome text mode **Symbol-mind**  
    (chat-like command line interface of the symbolic world).
 
 ```
