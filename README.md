@@ -4,7 +4,7 @@
 
 # Symbol-mind
 
-formally assisted thinking environment
+formally assisted thinking environment  
 
 ---
 
