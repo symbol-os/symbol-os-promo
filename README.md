@@ -28,7 +28,7 @@ No graphical user interface, only text mode. No millions of colors, only a monoc
 
 We intentionally trade the visual decoration for **clarity of meaning**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
-From this seed, and without unnecessary features, we bring the Symbol-OS into existence.
+From this seed, and without unnecessary features, we bring the Symbol-mind into existence.
 
 ---
 
