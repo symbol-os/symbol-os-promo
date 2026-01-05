@@ -36,7 +36,7 @@ From this seed, and without unnecessary features, we bring the Symbol-mind into 
 
 A lot of intellectual tasks could be performed by Symbol-mind using provided tools to formalize and simplify argumented rasoning.
 
-The uses of Symbol-mind may involve any kinds of formalizations such as **fact analysis and synthesis**, **tasks planning and optimization**, or **theory verifying and proving**.
+Formalizations may involve **fact analysis and synthesis**, **task planning and optimization**, or **theory verifying and proving**.
 
 Symbol-mind intention is to serve as a **truth validation medium** assisting in identifying the right facts for solving the right tasks.
 
