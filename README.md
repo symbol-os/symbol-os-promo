@@ -34,9 +34,11 @@ From this seed, and without unnecessary features, we bring the Symbol-mind into 
 
 ## The Fruits
 
-A lot of intellectual tasks could be performed by Symbol-mind using provided means. Some of the tasks may even use *Admissibility Base* (AB) featured in accompanying examples. AB is a simple database for rule based querying of specifically patterned S-expression data. It could be used to formalize and simplify argumented choosing the right options among a variety of alternatives.
+A lot of intellectual tasks could be performed by Symbol-mind using provided tools to formalize and simplify argumented choosing the right options among a variety of alternatives.
 
-Other tasks using Symbol-mind may involve any kinds of formalizations such as resource planning and optimization, truth verifying and proving, or fact checking and producing. Knowing that Symbol-mind is Turing complete computing platform, it follows that it is capable of performing any computation type known to us. But its intention is not to be used in programming usual applications, yet to serve as a truth validation medium assisting in identifying the right facts for solving the right tasks.
+The uses of Symbol-mind may involve any kinds of formalizations such as **fact checking and producing**, **tasks planning and optimization**, or **theory verifying and proving**.
+
+Symbol-mind intention is to serve as a **truth validation medium** assisting in identifying the right facts for solving the right tasks.
 
 ```
 // WORK IN PROGRESS //
