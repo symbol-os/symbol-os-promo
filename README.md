@@ -34,7 +34,7 @@ From this seed, and without unnecessary features, we bring the Symbol-mind into 
 
 ## The Fruits
 
-A lot of intellectual tasks could be performed by Symbol-mind using provided tools to formalize and simplify argumented choosing the right options among a variety of alternatives.
+A lot of intellectual tasks could be performed by Symbol-mind using provided tools to formalize and simplify argumented rasoning.
 
 The uses of Symbol-mind may involve any kinds of formalizations such as **fact analysis and synthesis**, **tasks planning and optimization**, or **theory verifying and proving**.
 
