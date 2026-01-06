@@ -8,7 +8,7 @@ formally assisted thinking environment
 
 ---
 
-## The essence
+## The Essence
 
 A small, humane, calm, **symbolic computing environment** where someone can think more clearly and program things that matter to them.
 
