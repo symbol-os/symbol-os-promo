@@ -2,7 +2,7 @@
 // WORK IN PROGRESS //
 ```
 
-# Symbol-mind
+# Symbolverse
 
 formally assisted thinking environment
 
@@ -28,13 +28,13 @@ No graphical user interface, only text mode. No millions of colors, only a monoc
 
 We intentionally trade the visual decoration for **clarity of meaning**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
-From this seed, and without unnecessary features, we bring the Symbol-mind into existence.
+From this seed, and without unnecessary features, we bring the Symbolverse into existence.
 
 ---
 
 ## The Fruits
 
-A lot of intellectual tasks could be performed by Symbol-mind using provided tools to formalize and simplify **argumented rasoning**.
+Many intellectual tasks could be performed by Symbolverse using provided tools to formalize and simplify **argumented rasoning**.
 
 Formalizations may involve **fact analysis and synthesis**, **task planning and optimization**, or **theory verifying and proving**.
 
