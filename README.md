@@ -16,7 +16,7 @@ Not a product nor a platform. More like a **thought interface**. A modern day Li
 
 A place where someone can write a bit of symbolic code, express workflows cleanly, and **check their structural soundness** before execution.
 
-The workflows may be documented and memorized for later references.
+The workflows may be executed, documented, and memorized for later references.
 
 ---
 
@@ -26,7 +26,7 @@ In a world where the majority chases beautiful but complex graphical interfaces,
 
 No graphical user interface, only text mode. No millions of colors, only a **chat-like command line or network interface** access.
 
-We intentionally trade the visual decoration for **meaningful foundations**. The conceptual depth is placed at the theoretical background.
+We intentionally trade the visual decoration for **meaningful foundations**. The conceptual depth is focused at the theoretical background.
 
 From this seed, and without unnecessary features, we bring the Symbolverse into existence.
 
