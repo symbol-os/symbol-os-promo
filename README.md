@@ -36,11 +36,11 @@ From this seed, and without unnecessary features, we bring the Symbolverse into 
 
 Symbolverse is not a planner, optimizer, nor an AI. It is a **structural referee**. Think of workflows like task pipelines, decision trees, multi-step plans, tool-call sequences, or agent coordination scripts. Given a symbolic workflow produced by a human or a machine, Symbolverse answers: “Is this workflow structurally coherent under the declared interfaces?”
 
-Symbolverse **does not** decide correctness, decide feasibility, decide truth, or decide optimality. What id **does** is check that every step can accept what the previous step produces, check that required projections exist, ensure no impossible structural access occurs, and allow optimistic flows with explicit `Cast`. This makes Symbolverse a **structural contract checker** for symbolic workflows.
+Symbolverse **does not** decide correctness, decide feasibility, decide truth, or decide optimality. What id **does** is check that every step can accept what the previous step produces, check that required projections exist, ensure no impossible structural access occurs, and allow control flows with explicit `Cast`. This makes Symbolverse a **structural contract checker** for symbolic workflows.
 
-Provided an **input** of a workflow described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists, Symbolverse produces the **output** of structurally confirmation or precise structural errors (missing capability, invalid projection, incompatible interface.) In other words, Symbolverse statically intercepts structural errors before they show up at the runtime.
+Provided an **input of a workflow** described as symbolic expressions, interface declarations for each step/tool, and optional casts where uncertainty exists, Symbolverse produces the **output of structurally confirmation** or precise structural errors (missing capability, invalid projection, incompatible interface.) In other words, Symbolverse statically intercepts structural errors before they show up at the runtime.
 
-Symbolverse represents guardrails, filter, or validator. It is able to say “this is nonsense” before we dive into execution of a plan. Symbolversse rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. It promises **structure**.
+Symbolverse represents guardrails, filter, or validator. It is able to say “this is nonsense” before we dive into execution of a plan. Symbolversse rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. **It promises structure**.
 
 ```
 // WORK IN PROGRESS //
