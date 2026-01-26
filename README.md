@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-a computing environment for symbolic workflows written, checked, and reasoned about before execution 
+a computing environment for symbolic workflows written, checked, and reasoned about before execution
 
 ---
 
@@ -26,7 +26,7 @@ In a world where the majority chases beautiful but complex graphical interfaces,
 
 No graphical user interface, only text mode. No millions of colors, only a **chat-like command line or network interface** access.
 
-We intentionally trade the visual decoration for **meaningful foundations**. The conceptual depth is focused at the theoretical background.
+We intentionally trade the visual decoration for **meaningful foundations**. The conceptual depth is focused on the theoretical background.
 
 From this seed, and without unnecessary features, we bring the Symbolverse into existence.
 
