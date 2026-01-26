@@ -10,7 +10,7 @@ a computing environment for symbolic workflows
 
 ## The Essence
 
-A small, humane, calm **workflow processing environment** where someone can think more clearly about multi-step plans and program things that matter to them.
+A small **workflow processing environment** where someone can think more clearly about multi-step plans and program things that matter to them.
 
 Not a product nor a platform. More like a **thought interface**. A modern day Lisp, Forth, or Metamath used to build up **reliable workflows**.
 
@@ -24,7 +24,7 @@ The **workflows may be documented** and memorized for later references.
 
 In a world where the majority chases beautiful but complex graphical interfaces, a **small oasis of simplicity and minimalism** arises.
 
-No graphical user interface, only text mode. No millions of colors, only a monochrome tint. No noise and fuss, only you and the structured plan of your interest.
+No graphical user interface, only text mode. No millions of colors, only a chat-like command line interface. No noise and fuss, only the structured plan of your interest.
 
 We intentionally trade the visual decoration for **clarity of form**. Here, unambiguous expressions and transparent interpretation carry the weight that, otherwise, is given to the graphical appearance.
 
