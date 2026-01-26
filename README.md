@@ -42,19 +42,6 @@ Provided an **input** of a workflow described as symbolic expressions, interface
 
 Symbolverse represents guardrails, filter, or validator. It is able to say “this is nonsense” before we dive into execution of a plan. Symbolversse rejects structurally impossible plans, requests casts where assumptions are needed, and never lies about certainty. It doesn't promise sentience, truth, or intelligence. It promises **structure**.
 
-
-
-
-
-
-
-
-Many intellectual tasks could be performed using Symbolverse tools to formalize and simplify **argumented rasoning**.
-
-Formalizations may involve **fact analysis and synthesis**, **task planning and optimization**, or **theory verifying and proving**.
-
-The main intention is to serve as a **truth validation medium** assisting in deducing the right facts for making the right decisions.
-
 ```
 // WORK IN PROGRESS //
 ```
