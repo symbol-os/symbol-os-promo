@@ -20,7 +20,7 @@ Focusing **not on value dependent but on structural consistency**, this intentio
 
 By checking workflow structural soundness before its execution, the automation pre-flight structural analyzer is able to **detect errors before they show up in the production process**.
 
-The workflows may be documented, analyzed, executed, and memorized for later references.
+Minding anyone shipping automation they can’t afford to debug at runtime, the workflows may be documented, analyzed, executed, and memorized for later references.
 
 ---
 
