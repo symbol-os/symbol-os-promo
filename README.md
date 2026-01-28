@@ -73,6 +73,7 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say â
             (SendEmail
               (Cast payload
                 (EmailPayload "abc" "abc" "abc")))
+            
             (SendSMS
               (Cast payload
                 (SMSPayload "123" "abc"))))))
