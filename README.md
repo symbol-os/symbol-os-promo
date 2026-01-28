@@ -70,8 +70,12 @@ Symbolverse represents guardrails, a filter, or a validator. It is able to say â
         (PARAMS channel payload)
         (RESULT
           ((Eq channel "email")
-            (SendEmail (Cast payload (EmailPayload "abc" "abc" "abc")))
-            (SendSMS   (Cast payload (SMSPayload   "123" "abc"      ))))))
+            (SendEmail
+              (Cast payload
+                (EmailPayload "abc" "abc" "abc")))
+            (SendSMS
+              (Cast payload
+                (SMSPayload "123" "abc"))))))
       
       (ENTAILS
         (PRODUCT String (UNION EmailPayload SMSPayload))
