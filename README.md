@@ -8,6 +8,13 @@
 
 ---
 
+## TL;DR
+
+*At its core, Symbolverse is a deterministic symbolic checker.
+You describe a workflow in terms of explicit inputs, outputs, and constraints.
+A validator then mechanically checks whether each step can follow from the previous ones — or refuses if it cannot.
+No inference. No heuristics. No best-effort guesses.*
+
 ## Why This Exists
 
 Most tools help you act faster.
@@ -135,6 +142,8 @@ It does not promise better answers.
 It promises clearer questions.
 
 If that feels like something you have been missing, you are welcome here.
+
+## How to download
 
 ```
 // WORK IN PROGRESS //
