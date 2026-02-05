@@ -4,7 +4,7 @@
 
 # Symbolverse
 
-*A deterministic symbolic checker for explicit workflows*
+*A symbolic checker for explicit workflows*
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Summary
 
-Symbolverse is a **deterministic symbolic checker**.
+Symbolverse is a referentially transparent **symbolic checker**.
 
 You describe a workflow in terms of **explicit inputs, outputs, assumptions, and constraints**.
 Symbolverse then mechanically checks whether each step can *structurally* follow from the previous ones — or **refuses** if it cannot.
