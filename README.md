@@ -10,7 +10,7 @@
 
 ## TL;DR
 
-Symbolverse is a **deterministic symbolic validator**.
+Symbolverse is a **deterministic symbolic checker**.
 
 You describe a workflow in terms of **explicit inputs, outputs, assumptions, and constraints**.
 Symbolverse then mechanically checks whether each step can *structurally* follow from the previous ones — or **refuses** if it cannot.
