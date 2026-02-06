@@ -44,7 +44,7 @@ User proposes:
 
 Symbolverse:
 ✗ Refusal at Step B
-  Missing requirement: (config c)
+  Missing requirement: (Config c)
 ```
 
 ---
