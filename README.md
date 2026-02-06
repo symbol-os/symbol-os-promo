@@ -38,7 +38,7 @@ It tells you where it stops making sense.
 ```
 Example (simplified):
 
-LLM proposes:
+User proposes:
 - Step A produces (Data d)
 - Step B requires (Config c)
 
