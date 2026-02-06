@@ -36,7 +36,7 @@ It tells you where it stops making sense.
 ## A Small Example
 
 ```
-Example (simplified):
+# Example (simplified)
 
 User proposes:
 - Step A produces `Data`
